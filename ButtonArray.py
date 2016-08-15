@@ -18,7 +18,7 @@ class ButtonArrayPanel(wx.Panel):
     def OnButton(self, evt, but_num):
         print "Button number: %i clicked"%but_num
         #test git
-        print u'test gitsdafsafasf'
+        print u'test my '
             
     
 
