@@ -26,7 +26,7 @@ class MyFrame(wx.Frame):
         
         self.Paper = wx.Bitmap("Paper.BMP", wx.BITMAP_TYPE_BMP)
         if self.Paper.Ok():
-            print "bitmap loaded OK"+'hello githup'
+            print "bitmap loaded OK"+'hello githupsdfaf afdasdfadffsdfa'
         else:
             raise Exception("bitmap DID NOT load OK")
 
